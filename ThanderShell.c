@@ -141,10 +141,6 @@ int ComandoInterno(){
             call_rmdir();
             reset();
             break;
-        }else if(!strcmp(cmd, "declare")){
-            call_declare();
-            reset();
-            break;
         }
         i++;
     }
