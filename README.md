@@ -1,5 +1,7 @@
 # ThanderShell
 
+![](https://raw.githubusercontent.com/simeithander/thandershell/master/screenshot/Screenshot.png)
+
 Shell desenvolvida em C para aprendizagem de sistemas operacionais. A shell possui algoritimos que manipulam o Kernel utilizando chamada de sistemas.
 
 ## Como testar:
