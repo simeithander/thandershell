@@ -13,6 +13,7 @@ void drawHeader(){
     printf("- T H A N D E R - S H E L L -\n");
     printf("-----------------------------\n");
 }
+
 /* ler o que o usuário digita */
 char readline[80];
 /* Salva os parâmetros digitados */
